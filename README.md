@@ -15,3 +15,18 @@ i.e.
   output:
   'hello' is not a palindrome
 ---- or ----
+  String phrase = "LevEl";
+  output:
+  'LevEl' is a palindrome
+---- or ----
+  String phrase = "In Girum Imus Nocte Et Consumimur Igni";  
+  output:
+  'In Girum Imus Nocte Et Consumimur Igni' is a palindrome
+---- or ----
+  String phrase = "Was it a car or a cat I saw?";
+  output:
+  'Was it a car or a cat I saw?' is a palindrome
+---- or ----
+  String phrase = "Eva, can I stab bats in a cave?";
+  output:
+  'Eva, can I stab bats in a cave?' is a palindrome
